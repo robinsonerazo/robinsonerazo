@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robinsonerazo
-- 👀 I’m interested in start my IT career, mainly Machine Learning, Artificial Intelligence, Mechanical Engineer Applications. 
+- 👀 I’m interested in start my IT career, mainly Machine Learning/Artificial Intelligence, Mechanical Engineer Applications and Game Development. 
 - 🌱 I’m currently learning FrontEnd technologies such HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: robinson.gtpe@gmail.com
